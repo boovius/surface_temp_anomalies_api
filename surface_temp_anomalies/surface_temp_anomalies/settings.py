@@ -38,7 +38,7 @@ INSTALLED_APPS = [
     'django.contrib.messages',
     'django.contrib.staticfiles',
     'rest_framework',
-    'surface_temp_anomalies.api',
+    'api',
 ]
 
 MIDDLEWARE = [
